@@ -224,4 +224,30 @@ A C++ graph-based route analysis project implementing Dijkstra, Bellman-Ford, an
   />
 </p>
 
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  Interested in my projects or want to collaborate?
+  Feel free to connect with me!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabik-hossen-945b352a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SabikHossen07">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💙 Thanks for visiting my GitHub Profile!</b>
+</p>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing</i>
+</p>
+
 ---
