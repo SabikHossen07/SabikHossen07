@@ -175,3 +175,51 @@ A C++ graph-based route analysis project implementing Dijkstra, Bellman-Ford, an
     <img src="https://img.shields.io/badge/Explore_All_My_Projects-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  My coding journey and GitHub activity
+</p>
+
+<!-- GitHub Stats and Top Languages -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SabikHossen07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=false"
+    width="48%"
+    alt="Sabik's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabikHossen07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"
+    width="48%"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+<!-- Contribution Streak -->
+
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=SabikHossen07&amp;theme=dark&amp;hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<!-- Activity Graph -->
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=SabikHossen07&amp;theme=tokyo-night&amp;hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
