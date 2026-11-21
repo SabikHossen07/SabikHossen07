@@ -68,3 +68,102 @@ I'm passionate about **Machine Learning, Computer Vision, Software Development, 
   <img src="https://img.shields.io/badge/Software_Development-24292E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web_Development-00A6A6?style=for-the-badge" />
 </p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A collection of my academic and personal projects.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CineBook
+
+**Online Movie Ticket Booking System**
+
+A full-stack movie booking application with user authentication, seat selection, ticket generation, and booking management.
+
+**Tech Stack:**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/SabikHossen07/CineBook-Online-Movie-Booking-System-">
+  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 CapTrack
+
+**Capstone Project Lifecycle Management**
+
+A full-stack university capstone management platform featuring team collaboration, supervisor management, milestones, and project tracking.
+
+**Tech Stack:**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/SabikHossen07/frontend">
+  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚕 Taxi Fare Prediction
+
+**Machine Learning Regression Project**
+
+A machine learning project that predicts taxi fares using trip distance, traffic, weather, and other travel conditions.
+
+**Tech Stack:**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/SabikHossen07/Cse303-Project">
+  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗺️ GraphRoute BD
+
+**Shortest Path Analysis for Bangladesh**
+
+A C++ graph-based route analysis project implementing Dijkstra, Bellman-Ford, and Floyd-Warshall algorithms.
+
+**Tech Stack:**
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-24292E?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/SabikHossen07/GraphRoute-BD">
+  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
