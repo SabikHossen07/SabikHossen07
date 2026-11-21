@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**SabikHossen07/SabikHossen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Sabik Hossen GitHub Banner"/>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Hi, I'm Sabik Hossen 👋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  CSE Student @ East West University<br>
+  Machine Learning | Computer Vision | Software Development
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabik-hossen-945b352a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SabikHossen07">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
