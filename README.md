@@ -1,253 +1,125 @@
+<!--
+  GitHub Profile README — Sabik Hossen
+  Repository: https://github.com/SabikHossen07/SabikHossen07
+  Keep Sabik-GitHub-Banner-Cropped.png next to README.md.
+  Animated logo GIFs: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub (MIT)
+-->
 
-<p align="center">
-
-<img src="./Sabik-GitHub-Banner-Cropped.png" width="100%" alt="Sabik Hossen GitHub Banner"/>
-
-</p>
-
-<h2 align="center">Hi, I'm Sabik Hossen 👋</h2>
-
-<p align="center">
-  CSE Student @ East West University<br>
-  Machine Learning | Computer Vision | Software Development
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sabik-hossen-945b352a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SabikHossen07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
+<!-- HERO BANNER -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=CSE+Student+at+East+West+University;Machine+Learning+%26+Computer+Vision;Software+Development+%7C+Problem+Solving;Always+Learning+New+Technologies" alt="Typing Animation" />
-  </a>
+  <img src="./Sabik-GitHub-Banner-Cropped.png" alt="Sabik Hossen — CSE Student, ML and Software Development" width="100%" />
+
+  <br />
+
+  <a href="https://github.com/SabikHossen07?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
+  <a href="https://www.linkedin.com/in/sabik-hossen-945b352a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/sabikhossen"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+
+  <br /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=1100&color=00CFFF&center=true&vCenter=true&width=760&lines=CSE+Student+at+East+West+University;Exploring+Machine+Learning+%26+Computer+Vision;Building+Full-Stack+Web+Applications;Learning%2C+Building%2C+Improving" alt="Animated introduction" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About Me
 
-I'm **Sabik Hossen**, a Computer Science and Engineering student at **East West University, Bangladesh**.
+I'm **Sabik Hossen**, a Computer Science & Engineering student at **East West University, Bangladesh**. I enjoy combining software development, machine learning and problem-solving to build practical projects.
 
-I'm passionate about **Machine Learning, Computer Vision, Software Development, and problem-solving**. I enjoy transforming ideas into real-world projects.
-
-- 🎓 Studying **Computer Science & Engineering**
-- 🤖 Exploring **AI, Machine Learning & Computer Vision**
-- 💻 Interested in **Software and Web Development**
-- 🌱 Continuously improving my programming skills
-- 🚀 Building practical academic and personal projects
-- 📍 Based in **Bangladesh**
+- 🤖 **Exploring:** Machine Learning, Computer Vision and AI-powered applications
+- 💻 **Building:** Full-stack web applications and academic projects
+- 🧠 **Interested in:** Algorithms, applied AI and software engineering
+- 🌱 **Currently learning:** New tools and better software development practices
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### ⚡ My Tech Stack
 
-### 💻 Programming & Development
+<p align="center"><b>Animated Developer Logos</b></p>
 
+<!-- Moving logos: sourced from Anmol-Baranwal/Cool-GIFs-For-GitHub (MIT). -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,ts,mysql&perline=7" alt="Programming Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="76" alt="Animated Python logo" title="Python" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="76" alt="Animated JavaScript logo" title="JavaScript" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="76" alt="Animated GitHub logo" title="GitHub" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="76" alt="Animated VS Code logo" title="VS Code" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="76" alt="Animated React logo" title="React" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="76" alt="Animated Node.js logo" title="Node.js" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="76" alt="Animated Android logo" title="Android" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="76" alt="Animated Git logo" title="Git" />
 </p>
 
-### 🔧 Development Tools
-
+<p align="center"><b>Languages, Databases &amp; Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=4" alt="Development Tools" />
-</p>
-
----
-
-## 🎯 Areas of Interest
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-0096FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-005B96?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software_Development-24292E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Development-00A6A6?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,ts,html,css,mysql,mongodb&perline=11" alt="Languages and databases" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,androidstudio&perline=6" alt="Frameworks and developer tools" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+### 🚀 Selected Projects
 
-<p align="center">
-  A collection of my academic and personal projects.
-</p>
+<p align="center">A few projects that represent my work in web development, machine learning and algorithms.</p>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 CineBook
-
-**Online Movie Ticket Booking System**
-
-A full-stack movie booking application with user authentication, seat selection, ticket generation, and booking management.
-
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SabikHossen07/CineBook-Online-Movie-Booking-System-">
-  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 CapTrack
-
-**Capstone Project Lifecycle Management**
-
-A full-stack university capstone management platform featuring team collaboration, supervisor management, milestones, and project tracking.
-
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SabikHossen07/frontend">
-  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚕 Taxi Fare Prediction
-
-**Machine Learning Regression Project**
-
-A machine learning project that predicts taxi fares using trip distance, traffic, weather, and other travel conditions.
-
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SabikHossen07/Cse303-Project">
-  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗺️ GraphRoute BD
-
-**Shortest Path Analysis for Bangladesh**
-
-A C++ graph-based route analysis project implementing Dijkstra, Bellman-Ford, and Floyd-Warshall algorithms.
-
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algorithms-24292E?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/SabikHossen07/GraphRoute-BD">
-  <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 CapTrack</h3>
+      <b>Capstone Project Lifecycle Management</b>
+      <p>A university capstone management platform for team collaboration, supervisor feedback, project milestones and submissions.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
+      <a href="https://github.com/SabikHossen07/frontend"><img src="https://img.shields.io/badge/Source_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="CapTrack source" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 CineBook</h3>
+      <b>Online Movie Ticket Booking System</b>
+      <p>A PHP/MySQL booking system with movie listings, showtimes, seat selection, tickets and management tools.</p>
+      <p><code>PHP</code> <code>MySQL</code> <code>JavaScript</code></p>
+      <a href="https://github.com/SabikHossen07/CineBook-Online-Movie-Booking-System-"><img src="https://img.shields.io/badge/Source_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="CineBook source" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚕 Taxi Fare Prediction</h3>
+      <b>Machine Learning Regression</b>
+      <p>A regression project exploring how trip duration, distance, traffic and weather conditions relate to taxi fares.</p>
+      <p><code>Python</code> <code>pandas</code> <code>scikit-learn</code></p>
+      <a href="https://github.com/SabikHossen07/Cse303-Project"><img src="https://img.shields.io/badge/Source_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Taxi Fare Prediction source" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ GraphRoute BD</h3>
+      <b>Shortest-Path Algorithms</b>
+      <p>A C++ graph project applying Dijkstra, Bellman-Ford and Floyd-Warshall to a Bangladesh-focused route network.</p>
+      <p><code>C++</code> <code>Graphs</code> <code>Algorithms</code></p>
+      <a href="https://github.com/SabikHossen07/GraphRoute-BD"><img src="https://img.shields.io/badge/Source_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GraphRoute BD source" /></a>
+    </td>
+  </tr>
 </table>
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/SabikHossen07?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_My_Projects-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
-  </a>
+  <a href="https://github.com/SabikHossen07?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-10253E?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+### 📊 GitHub Activity
 
-<p align="center">
-  My coding journey and GitHub activity
-</p>
-
-<!-- GitHub Stats and Top Languages -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SabikHossen07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=false"
-    width="48%"
-    alt="Sabik's GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabikHossen07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"
-    width="48%"
-    alt="Most Used Programming Languages"
-  />
-</p>
-
-<!-- Contribution Streak -->
-
-<h3 align="center">🔥 GitHub Streak</h3>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=SabikHossen07&amp;theme=dark&amp;hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<!-- Activity Graph -->
-
-<h3 align="center">📈 Contribution Activity</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=SabikHossen07&amp;theme=tokyo-night&amp;hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  Interested in my projects or want to collaborate?
-  Feel free to connect with me!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sabik-hossen-945b352a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SabikHossen07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabikHossen07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabikHossen07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used repository languages" height="170" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=SabikHossen07&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=SabikHossen07&amp;theme=tokyo-night&amp;hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
 
 ---
 
-<p align="center">
-  <b>💙 Thanks for visiting my GitHub Profile!</b>
-</p>
-
-<p align="center">
-  <i>Keep Learning • Keep Building • Keep Growing</i>
-</p>
-
----
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>Open to learning, collaborating and exchanging project ideas.</p>
+  <a href="https://www.linkedin.com/in/sabik-hossen-945b352a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/sabikhossen"><img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <br /><br />
+  <em>Keep Learning · Keep Building · Keep Improving</em>
+</div>
