@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Sabik Hossen GitHub Banner"/>
+  <img src="./Sabik%20Hossen%20GitHub%20Profile%20Guide.png" width="100%" alt="Sabik Hossen GitHub Banner"/>
 </p>
 
 <h2 align="center">Hi, I'm Sabik Hossen 👋</h2>
